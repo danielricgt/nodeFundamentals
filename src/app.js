@@ -1,5 +1,6 @@
 const { getAge, getUiid } = require("../src/plugins");
 const {buildMakePerson} =  require('./js-foundation/05-factory');
+const getPokemonId = require("./js-foundation/06-promises");
 
 // const getAge = require('get-age');
 // const {emailTemplate} = require ('../src/js-foundation/01-template');
@@ -46,3 +47,8 @@ const obj = { name: "Ricardo", birthdate: "1985-10-21" };
 
 const DaniGalvan = makePerson(obj);
 console.log(DaniGalvan);
+
+
+getPokemonId(1, (name) => {
+    console.log(`El Pokémon es: ${name}`);
+});
