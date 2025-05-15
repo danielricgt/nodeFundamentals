@@ -49,6 +49,9 @@ const DaniGalvan = makePerson(obj);
 console.log(DaniGalvan);
 
 
-getPokemonId(1, (name) => {
-    console.log(`El Pokémon es: ${name}`);
-});
+getPokemonId(12).then((pokemon) => {
+        console.log({pokemon})
+})
+.catch(err =>  { console.log('lo siento intente nuevamente')})
+.finally(()=> console.log('FINALMENTE'));
+
