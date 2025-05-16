@@ -1,6 +1,10 @@
 const { getAge, getUiid } = require("../src/plugins");
 const {buildMakePerson} =  require('./js-foundation/05-factory');
 const getPokemonId = require("./js-foundation/06-promises");
+const {buildLogger}  = require('./plugins');
+
+const logger = buildLogger('app.js');
+logger.log('Hola Mundo');
 
 // const getAge = require('get-age');
 // const {emailTemplate} = require ('../src/js-foundation/01-template');
@@ -42,16 +46,16 @@ const getPokemonId = require("./js-foundation/06-promises");
 // // });
 
 
-const makePerson =  buildMakePerson({getUiid, getAge});
-const obj = { name: "Ricardo", birthdate: "1985-10-21" };
+// const makePerson =  buildMakePerson({getUiid, getAge});
+// const obj = { name: "Ricardo", birthdate: "1985-10-21" };
 
-const DaniGalvan = makePerson(obj);
-console.log(DaniGalvan);
+// const DaniGalvan = makePerson(obj);
+// console.log(DaniGalvan);
 
 
-getPokemonId(12).then((pokemon) => {
-        console.log({pokemon})
-})
-.catch(err =>  { console.log('lo siento intente nuevamente')})
-.finally(()=> console.log('FINALMENTE'));
+// getPokemonId(12).then((pokemon) => {
+//         console.log({pokemon})
+// })
+// .catch(err =>  { console.log('lo siento intente nuevamente')})
+// .finally(()=> console.log('FINALMENTE'));
 
