@@ -5,6 +5,7 @@ const {buildLogger}  = require('./plugins');
 
 const logger = buildLogger('app.js');
 logger.log('Hola Mundo');
+logger.error('unexpected error');
 
 // const getAge = require('get-age');
 // const {emailTemplate} = require ('../src/js-foundation/01-template');

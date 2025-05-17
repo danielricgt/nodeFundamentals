@@ -1,2 +1,74 @@
 {"level":"info","message":"Hola Mundo","service":"user-service"}
 {"level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"error","message":"error","service":"user-service"}
+{"level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"error","message": "error","service":"user-service"}
+{"level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"error","message":"error","service":"user-service"}
+{"level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"error","message":"error","service":"user-service"}
+{"level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"error","message":"error","service":"user-service"}
+{"level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"error","message":"error","service":"user-service"}
+{"level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"error","message":"error unexpected error","service":"app.js"}
+{"level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"error","message":"error unexpected error","service":"app.js"}
+{"level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"error","message":"error unexpected error","service":"app.js"}
+{"at":"2025-05-17T03:00:05.209Z","level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"error","message":"error unexpected error","service":"app.js"}
+{"at":"2025-05-17T03:00:06.330Z","level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"error","message":"error unexpected error","service":"app.js"}
+{"level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"error","message":"error unexpected error","service":"app.js"}
+{"level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"error","message":"error unexpected error","service":"app.js"}
+{"at":"2025-05-17T03:00:29.822Z","level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"error","message":"error unexpected error","service":"app.js"}
+{"at":"2025-05-17T03:00:50.497Z","level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"error","message":"error unexpected error","service":"app.js"}
+{"at":"2025-05-17T03:01:07.052Z","level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"error","message":"error unexpected error","service":"app.js"}
+{"at":"2025-05-17T03:02:17.756Z","level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"error","message":"error unexpected error","service":"app.js"}
+{"at":"2025-05-17T03:02:19.139Z","level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"error","message":"error unexpected error","service":"app.js"}
+{"at":"2025-05-17T03:02:28.205Z","level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"error","message":"error unexpected error","service":"app.js"}
+{"at":"2025-05-17T03:02:30.811Z","level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"error","message":"error unexpected error","service":"app.js"}
+{"at":"2025-05-17T03:02:37.047Z","level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"error","message":"error unexpected error","service":"app.js"}
+undefined
+undefined
+{"at":"2025-05-17T03:03:44.683Z","level":"info","message":"Hola Mundo","service":"user-service"}
+{"level":"error","message":"error unexpected error","service":"app.js"}
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+{"at":"2025-05-17T03:04:20.413Z","level":"info","message":"Hola Mundo","service":"user-service","timestamp":"2025-05-17T03:04:20.413Z"}
+{"level":"error","message":"error unexpected error","service":"app.js","timestamp":"2025-05-17T03:04:20.414Z"}
+{"at":"2025-05-17T03:04:21.859Z","level":"info","message":"Hola Mundo","service":"user-service","timestamp":"2025-05-17T03:04:21.859Z"}
+{"level":"error","message":"error unexpected error","service":"app.js","timestamp":"2025-05-17T03:04:21.860Z"}
+{"at":"2025-05-17T03:06:09.232Z","level":"info","message":"Hola Mundo","service":"user-service","timestamp":"2025-05-17T03:06:09.232Z"}
+{"level":"error","message":"error unexpected error","service":"app.js","timestamp":"2025-05-17T03:06:09.233Z"}
+{"at":"2025-05-17T03:06:44.569Z","level":"info","message":"Hola Mundo","service":"user-service","timestamp":"2025-05-17T03:06:44.569Z"}
+{"level":"error","message":"error unexpected error","service":"app.js","timestamp":"2025-05-17T03:06:44.570Z"}
+{"at":"2025-05-17T03:08:56.717Z","level":"info","message":"Hola Mundo","service":"user-service","timestamp":"2025-05-17T03:08:56.717Z"}
+{"level":"error","message":"error unexpected error","service":"app.js","timestamp":"2025-05-17T03:08:56.718Z"}
