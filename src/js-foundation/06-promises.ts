@@ -1,8 +1,9 @@
-const { httpClientPlugin } = require("../plugins");
+
+import {httpClientPlugin} from '../plugins/http-client.plugin'
 
 
 
-const getPokemonId = async (id) =>{
+export const getPokemonId = async (id: string | number ):Promise<string> =>{
 
     
     try {
@@ -15,16 +16,14 @@ const getPokemonId = async (id) =>{
         
         
     } catch (error) {
-         throw new Error (error)
+         throw new Error (error as string)
         
     } 
 
-
+ 
     // return fetch(url)
     // .then((response) => response.json())
     // .then(()=> {throw new Error('Pokemon no existe')})
     // .then((pokemon) => pokemon.name)
 
 }
-
-module.exports = getPokemonId;

@@ -1,11 +1,14 @@
-const { getAge, getUiid } = require("../src/plugins");
-const {buildMakePerson} =  require('./js-foundation/05-factory');
-const getPokemonId = require("./js-foundation/06-promises");
-const {buildLogger}  = require('./plugins');
+// const { getAge, getUiid } = require("../src/plugins");
+// const {buildMakePerson} =  require('./js-foundation/05-factory');
+// const getPokemonId = require("./js-foundation/06-promises");
+// const {buildLogger}  = require('./plugins');
 
-const logger = buildLogger('app.js');
-logger.log('Hola Mundo');
-logger.error('unexpected error');
+import { getPokemonId } from "./js-foundation/06-promises";
+import { buildLogger } from "./plugins/logger.plugin";
+
+// const logger = buildLogger('app.js');
+// logger.log('Hola Mundo');
+// logger.error('unexpected error');
 
 // const getAge = require('get-age');
 // const {emailTemplate} = require ('../src/js-foundation/01-template');
@@ -16,7 +19,14 @@ logger.error('unexpected error');
 // require('./js-foundation/03-callbacks');
 // require('./js-foundation/04-arrow');
 // require('./js-foundation/05-factory');
- 
+
+
+// const names= 'Daniel';
+// console.log(names);
+
+// console.log(getPokemonId(1));
+
+
 // const { getUiid } = require('./plugins');
 // // const id = 2;
 
@@ -54,9 +64,9 @@ logger.error('unexpected error');
 // console.log(DaniGalvan);
 
 
-// getPokemonId(12).then((pokemon) => {
-//         console.log({pokemon})
-// })
+getPokemonId(12).then((pokemon) => {
+        console.log({pokemon})
+})
 // .catch(err =>  { console.log('lo siento intente nuevamente')})
 // .finally(()=> console.log('FINALMENTE'));
 
