@@ -3,8 +3,8 @@
 // const getPokemonId = require("./js-foundation/06-promises");
 // const {buildLogger}  = require('./plugins');
 
-import { getPokemonId } from "./js-foundation/06-promises";
-import { buildLogger } from "./plugins/logger.plugin";
+// import { getPokemonId } from "./js-foundation/06-promises";
+// import { buildLogger } from "./plugins/logger.plugin";
 
 // const logger = buildLogger('app.js');
 // logger.log('Hola Mundo');
@@ -64,9 +64,9 @@ import { buildLogger } from "./plugins/logger.plugin";
 // console.log(DaniGalvan);
 
 
-getPokemonId(12).then((pokemon) => {
-        console.log({pokemon})
-})
+// getPokemonId(12).then((pokemon) => {
+//         console.log({pokemon})
+// })
 // .catch(err =>  { console.log('lo siento intente nuevamente')})
 // .finally(()=> console.log('FINALMENTE'));
 
