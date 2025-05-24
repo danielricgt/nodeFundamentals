@@ -19,7 +19,11 @@ const users:User[] = [
         return user.id === id;
     });
     if (!user) {
-        return callback(`user not found with id ${id}`);
+      setTimeout(() => {
+        callback(`user not found with id ${id}`);
+        
+      }, 2500);
+    return;
     } 
     return callback(undefined, user);
     // console.log( {user});
