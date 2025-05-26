@@ -1,6 +1,3 @@
-import { getUiid } from '../plugins';
-import { getAge } from '../plugins/get-age-plugin';
-
 interface BuildMakePersonOptions {
   getAge: (birthdate: string)=> number ,
   getUiid: () => string
@@ -16,6 +13,7 @@ export const buildMakePerson = ({getAge, getUiid}: BuildMakePersonOptions )=> {
     return {
       id: getUiid(),
       name: name,
+      birthdate: birthdate,
       age: getAge(birthdate),
     };
   };
