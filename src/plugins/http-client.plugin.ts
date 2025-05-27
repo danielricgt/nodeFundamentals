@@ -6,10 +6,17 @@ export const httpClientPlugin = {
     return data;
   },
 
-  post: async (url: string, body: PostHttp) => {},
+  post: async (url: string, body: PostHttp) => {
 
-  put: async (url: string, body: PutHttp) => {},
+    throw new Error ('not implemented yet')
+  },
 
-  delete: async (url: string) => {},
+  put: async (url: string, body: PutHttp) => {
+    throw new Error ('not implemented yet')
+  },
+
+  delete: async (url: string) => {
+    throw new Error ('not implemented yet')
+  },
 };
 
