@@ -421,3 +421,15 @@ undefined
 {"level":"error","message":"error unexpected error","service":"app.js","timestamp":"2025-05-18T02:49:21.154Z"}
 {"level":"error","message":"error unexpected error","service":"app.js","timestamp":"2025-05-18T02:49:48.493Z"}
 {"level":"error","message":"error unexpected error","service":"app.js","timestamp":"2025-05-18T02:49:54.826Z"}
+{"level":"error","message":"error test message","service":"user-service","timestamp":"2025-05-28T03:54:02.195Z"}
+{"level":"error","message":"error test message","service":"user-service","timestamp":"2025-05-28T03:54:22.184Z"}
+{"level":"error","message":"error test message","service":"user-service","timestamp":"2025-05-28T03:54:24.614Z"}
+{"level":"error","message":"error test message","service":"user-service","timestamp":"2025-05-28T03:55:46.138Z"}
+{"level":"error","message":"error test message","service":"user-service","timestamp":"2025-05-28T03:56:17.164Z"}
+{"level":"error","message":"error test message","service":"user-service","timestamp":"2025-05-28T03:56:21.276Z"}
+{"level":"error","message":"error test message","service":"user-service","timestamp":"2025-05-28T03:56:46.422Z"}
+{"level":"error","message":"error test message","service":"user-service","timestamp":"2025-05-28T03:56:54.260Z"}
+{"level":"error","message":"error test message","service":"user-service","timestamp":"2025-05-28T03:57:28.112Z"}
+{"level":"error","message":"error test message","service":"user-service","timestamp":"2025-05-28T03:57:48.610Z"}
+{"level":"error","message":"error test message","service":"user-service","timestamp":"2025-05-28T03:57:58.066Z"}
+{"level":"error","message":"error test message","service":"user-service","timestamp":"2025-05-28T03:59:32.369Z"}
