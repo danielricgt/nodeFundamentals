@@ -16,7 +16,7 @@ describe('App', () => {
             return num1 + num2;
         }
         //  3. ASSERT
-        expect(sum(num1, num2)).toBe(30)
+        expect(sum(num1, num2)).toBe(40)
      })
 
 

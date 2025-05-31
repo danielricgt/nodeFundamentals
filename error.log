@@ -433,3 +433,5 @@ undefined
 {"level":"error","message":"error test message","service":"user-service","timestamp":"2025-05-28T03:57:48.610Z"}
 {"level":"error","message":"error test message","service":"user-service","timestamp":"2025-05-28T03:57:58.066Z"}
 {"level":"error","message":"error test message","service":"user-service","timestamp":"2025-05-28T03:59:32.369Z"}
+{"level":"error","message":"error test message","service":"user-service","timestamp":"2025-05-31T02:44:48.849Z"}
+{"level":"error","message":"error test message","service":"user-service","timestamp":"2025-05-31T02:45:53.909Z"}
