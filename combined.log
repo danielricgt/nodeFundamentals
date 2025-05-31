@@ -921,3 +921,7 @@ undefined
 {"level":"error","message":"error test message","service":"user-service","timestamp":"2025-05-28T03:57:58.066Z"}
 {"at":"2025-05-28T03:59:32.363Z","level":"info","message":"test message","service":"user-service","timestamp":"2025-05-28T03:59:32.363Z"}
 {"level":"error","message":"error test message","service":"user-service","timestamp":"2025-05-28T03:59:32.369Z"}
+{"at":"2025-05-31T02:44:48.841Z","level":"info","message":"test message","service":"user-service","timestamp":"2025-05-31T02:44:48.841Z"}
+{"level":"error","message":"error test message","service":"user-service","timestamp":"2025-05-31T02:44:48.849Z"}
+{"at":"2025-05-31T02:45:53.902Z","level":"info","message":"test message","service":"user-service","timestamp":"2025-05-31T02:45:53.902Z"}
+{"level":"error","message":"error test message","service":"user-service","timestamp":"2025-05-31T02:45:53.909Z"}
